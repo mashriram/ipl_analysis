@@ -1,0 +1,45 @@
+Todo:
+  Match Level Statistics
+  ✔ Aggregate the total number of runs scored by each team in the match? @done(24-07-29 16:24)
+  ✔ How many overs did each team play in the match? @done(24-07-29 16:24)
+  ✔ How many extras were conceded in the match? @done(24-07-29 18:59)
+  ✔ How many byes were conceded in the match? @done(24-07-29 18:59)
+  ✔ How many legbyes were conceded in the match? @done(24-07-29 18:59)
+  ✔ How many noballs were conceded in the match? @done(24-07-29 19:00)
+  ✔ How many wides were conceded in the match? @done(24-07-29 19:00)
+  ✔ How many fours were hit in the match? @done(24-07-29 21:44)
+  ✔ How many sixes were hit in the match? @done(24-07-29 21:44)
+  ✔ How many dot balls were there in the match @done(24-07-30 08:33)
+
+  Team Level Statistics
+  ✔ How many extras were conceded by the team? @done(24-07-29 19:00)
+  ✔ How many byes were conceded by the team? @done(24-07-29 19:00)
+  ✔ How many wides were conceded by the team? @done(24-07-29 19:00)
+  ✔ How many legbyes were conceded by the team? @done(24-07-29 19:00)
+  ✔ How many noballs were conceded by the team? @done(24-07-29 21:45)
+
+  Player Level Statistics
+  ☐ How many runs did {each batsman} score in the match? @done(24-08-04 19:45)
+  ☐ What was the strike rate of {each batsman} in the match? @done(24-08-04 19:45)
+  ☐ How many sixes were hit by the {batsman}?
+  ☐ How many fours were hit by the {batsman}?
+
+  Team Level Statistics across Matches
+  ☐ How many matches did the {team} win in the {season}?
+  ☐ How many extras were conceded by the team in the {season}?
+  ☐ How many byes were conceded by the team in the {season}?
+  ☐ How many legbyes were conceded by the team in the {season}?
+  ☐ How many noballs were conceded by the team in the {season}?
+  ☐ How many wides were conceded by the team in the {season}?
+  ☐ How many fours were hit by the team in the {season}?
+  ☐ How many sixes were hit by the team in the {season}?
+  ☐ How many dot balls were conceded by the team in the {season}?
+
+  Player Level Statistics across Matches
+
+  ☐ How many runs were scored during power play by the team?
+  ☐ Which batsman scored the maximum runs in team A?
+  ☐ How many dot balls did the batsman give?
+
+  ✔ Plot runs scored by overs @done(24-08-01 18:21)
+

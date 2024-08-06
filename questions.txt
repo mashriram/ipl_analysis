@@ -1,0 +1,36 @@
+Customer Questions
+01. Give me the dates when the first match was played?
+02. Where was the first IPL match played?
+03. Which teams played the first IPL match?
+04. In which city was the first IPL match played?
+05. Who was the match referee / reserve_umpires / umpires / tv_umpires for the first IPL match?
+06. Who won the first IPL match?
+07. How did they win the first IPL match?
+08. Who was the player of the first match?
+09. How many runs did Kohli get in the first match?
+10. Who won the toss in the first match?
+11. Show me the number of matches played in Bangalore by month?
+12. Show me the number of matches played across cities in 2007 season?
+13. What is the max / min / average runs by which a team has won in Bangalore?
+14. How many matches have KKR won in IPL 2007 season?
+15. How many times have RCB won the toss in IPL matches?
+16. How many times have RCB won the toss and elected to field?
+17. How many times has McCullum been the player of match when he played for KKR?
+
+
+// for every measure, we can answer the following questions:
+01. Count - how many runs
+02. Sum - how many runs was scored by batsman
+03. Min - who got the minimum score / runs
+04. Max - who got the maximum score / runs
+05. Average - how many runs on average was given by bowler X
+
+// in some cases, we can bin the measure and treat it as categorical variable
+
+// for every dimension / category variable, we can answer the following questions:
+01. Frequency Count for each category  - overs by runs conceded
+02. Group by each category - 
+
+// combining the measure and the dimension, we can answer the following questions:
+01. Count of Measure by category 02. Sum by category etc
+
