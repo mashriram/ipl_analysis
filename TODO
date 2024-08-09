@@ -21,8 +21,8 @@ Todo:
   Player Level Statistics
   ☐ How many runs did {each batsman} score in the match? @done(24-08-04 19:45)
   ☐ What was the strike rate of {each batsman} in the match? @done(24-08-04 19:45)
-  ☐ How many sixes were hit by the {batsman}?
-  ☐ How many fours were hit by the {batsman}?
+  ✔ How many sixes were hit by the {batsman}? @done(24-08-09 16:00)
+  ✔ How many fours were hit by the {batsman}? @done(24-08-09 16:00)
 
   Team Level Statistics across Matches
   ☐ How many matches did the {team} win in the {season}?
@@ -40,6 +40,7 @@ Todo:
   ☐ How many runs were scored during power play by the team?
   ☐ Which batsman scored the maximum runs in team A?
   ☐ How many dot balls did the batsman give?
+  
 
   ✔ Plot runs scored by overs @done(24-08-01 18:21)
 
